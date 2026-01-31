@@ -1,0 +1,40 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the software and also cite the accompanying paper (preferred citation below)."
+title: "photonic-maxwells-demon-analytics"
+type: software
+authors:
+  - family-names: "Braasch"
+    given-names: "William F."
+    name-suffix: "Jr."
+repository-code: "https://github.com/wbraasch/photonic-maxwells-demon-analytics"
+url: "https://github.com/wbraasch/photonic-maxwells-demon-analytics"
+license: "MIT"
+version: "0.1.0"
+date-released: "2026-01-30"
+keywords:
+  - "photonics"
+  - "bosonic statistics"
+  - "Haar average"
+  - "Weingarten calculus"
+  - "Maxwell's demon"
+
+preferred-citation:
+  type: article
+  title: "Bosonic statistics enhance Maxwell's demon in photonic experiment"
+  authors:
+    - family-names: "Correa Anguita"
+      given-names: "Malaquias"
+    - family-names: "Marzban"
+      given-names: "Sara"
+    - family-names: "Braasch"
+      given-names: "William F."
+      name-suffix: "Jr."
+    - family-names: "Upadhyaya"
+      given-names: "Twesh"
+    - family-names: "Landi"
+      given-names: "Gabriel"
+    - family-names: "Yunger Halpern"
+      given-names: "Nicole"
+    - family-names: "Renema"
+      given-names: "Jelmer J."
+  year: 2026
