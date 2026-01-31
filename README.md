@@ -58,7 +58,6 @@ python plot_photonic_stats.py --in examples/haar_stats_both_N3.json --outdir fig
 
 ## Notes
 
-- PNG/PDF output can differ slightly across platforms due to fonts and rendering.
 - The JSON output includes basic environment metadata.
 
 ## License
